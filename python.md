@@ -19,3 +19,8 @@ https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/
 
 [ ] Some good practical tips & tutorial
 https://www.commonlounge.com/discussion/eb8ce10f18b94963a6d0bcd91d0727be
+
+[ ] Google's Python Class
+https://developers.google.com/edu/python/
+
+
