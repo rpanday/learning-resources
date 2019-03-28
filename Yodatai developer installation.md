@@ -2,8 +2,8 @@
 2. Install Redis for Windows, setup it to run as service on the default port
 3. Install AWS Dynamo DB
 4. Run local Dynamo database, an example of run.cmd:
-    @echo off
-    start java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
+	@echo off
+	start java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
 5. Build solution
 6. Add separate domain in IIS, bind it to URL bot.org. Add it to hosts.
 7. Setup Bot Framework Emulator
